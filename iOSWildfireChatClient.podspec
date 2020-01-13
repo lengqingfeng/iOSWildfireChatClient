@@ -16,8 +16,8 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "iOSWildfireChatClient"
-  spec.version      = "0.0.1"
-  spec.summary      = "2012.1.13 更新野火sdk"
+  spec.version      = "0.0.2"
+  spec.summary      = "野火sdk Client"
 
   # This description is used to generate tags and improve search results.
   #   * Think: What does it do? Why did you write it? What is the focus?
