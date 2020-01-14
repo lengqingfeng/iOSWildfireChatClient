@@ -89,7 +89,7 @@ Pod::Spec.new do |spec|
   #  Not including the public_header_files will make all headers public.
   #
 
-  spec.source_files  = "WFChatClient.framework/Headers/*.{h}"
+  #spec.source_files  = "WFChatClient.framework/Headers/*.{h}"
   spec.vendored_frameworks = "WFChatClient.framework"
   spec.libraries   = "c++","z","resolv"
   spec.frameworks = 'Foundation', 'UIKit'
